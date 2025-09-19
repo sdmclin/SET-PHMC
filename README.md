@@ -26,7 +26,7 @@ This repository contains a R script for modelling past human mobility catchments
 MobilityCatchR        # Example site
   input/              # DEM, slope, coordinates
   output/             # Isochrone shapefiles & rasters for different scenarios
-  SET-PHMC_rek.R    # site-specific script
+  SET-PHMC.R          # site-specific script
 ```
 
 ---

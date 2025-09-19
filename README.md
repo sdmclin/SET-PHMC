@@ -52,11 +52,11 @@ MobilityCatchR        # Example site
 
 ## 🚀 Usage
 
-Example for Ras el-Kelb (`SET_rek.R`):
+Example for any Point of Interest (`SET-IHMC.R`):
 
 ```r
 # Run in R
-source("SET-PHMC_rek.R")
+source("SET-IHMC.R")
 ```
 
 The script will:
